@@ -31,7 +31,6 @@ Hi, I’m **Alihan** — an **Aeromodeller, Robotics Program Facilitator at the 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Alihan1805&theme=github-dark-blue&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alihan1805&layout=compact&hide_border=true&theme=github_dark" />
 </div>
 
 ---
